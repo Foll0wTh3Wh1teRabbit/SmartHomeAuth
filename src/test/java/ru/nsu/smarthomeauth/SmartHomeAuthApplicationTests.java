@@ -8,6 +8,7 @@ class SmartHomeAuthApplicationTests {
 
     @Test
     void contextLoads() {
+        
     }
 
 }
